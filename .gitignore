@@ -1,0 +1,11 @@
+bin/
+obj/
+logs/
+.vs/
+.vscode/
+*.user
+*.suo
+*.pdb
+*.log
+dist-standalone/
+dist-self-contained-test/
